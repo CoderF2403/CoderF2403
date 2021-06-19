@@ -8,6 +8,17 @@
 CoderF2403/CoderF2403 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+**Flutter Projects**
+
+- **BMI CALCULATOR**
+
+  https://github.com/CoderF2403/bmicalculator
+  
+  An open source program made from Flutter(2.2) and Dart(2.13). This project contains supports for Andriod, IOS, as well as Web.
+  I have used different techiniques and flutter modules to complete the project, some of the widgets are custome made with the help of flutter's parent widgets.
+  
+
 **Python Projects**
 
 - **DATA WRANGLNG PROJECT**
