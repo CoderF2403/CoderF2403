@@ -16,7 +16,8 @@ You can click the Preview link to take a look at your changes.
   https://github.com/CoderF2403/clima
 
   An open source program made from Flutter(2.2) and Dart(2.13). This project contains supports for Andriod, IOS, as well as Web. 
-  I have used different techiniques   and flutter modules to complete the project, some of the widgets are custome made with the help of flutter's parent widgets.
+  I have used different techiniques and flutter modules to complete the project.
+  OpenWeather Api has been used in this project. You can check it out here https://openweathermap.org/
 
 - **BMI CALCULATOR**
 
