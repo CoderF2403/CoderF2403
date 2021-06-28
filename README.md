@@ -17,7 +17,16 @@ You can click the Preview link to take a look at your changes.
 
 # Flutter Projects
 
-- **Crypto Ticker**
+- **FLASH CHAT**
+
+  https://github.com/CoderF2403/flash_chat
+  
+  An open source program made from Flutter(2.2) and Dart(2.13). This project contains supports for Andriod, IOS, as well as Web. 
+  This is a chat application created with the help of Firebase. The setup of firebase has only be done for Android Users.
+  Go through Firebase here : https://firebase.flutter.dev/docs/overview
+
+
+- **CRYPTO TICKER**
 
   https://github.com/CoderF2403/crypto_ticker
   
